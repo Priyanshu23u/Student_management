@@ -63,7 +63,7 @@ This simplified ER diagram illustrates core relationships:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Astha-Pathak/Student_management.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -89,7 +89,6 @@ This simplified ER diagram illustrates core relationships:
 ## Contribution
 
 Contributions to enhance the system are welcome. Please submit a pull request or open an issue for any suggestions or bug reports.
----
 
 ## License
 
